@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NokkenHelper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b85591c3bd416b6fb513e3fc6d622f6abfa4228")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75e47bc32848b6ad89f10a9bf4c731b3a69bcf27")]
 [assembly: System.Reflection.AssemblyProductAttribute("NokkenHelper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NokkenHelper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

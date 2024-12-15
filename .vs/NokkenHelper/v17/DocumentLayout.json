@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "NokkenHelper\\Program.cs",
               "ToolTip": "C:\\Users\\leoni\\source\\repos\\NokkenHelper\\NokkenHelper\\Program.cs",
               "RelativeToolTip": "NokkenHelper\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwKYAAAAwAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwKYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T07:58:33.343Z",
               "EditorCaption": ""
