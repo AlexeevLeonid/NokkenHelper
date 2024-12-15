@@ -1,0 +1,15 @@
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\bin\Debug\net6.0-windows\NokkenHelper.exe
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\bin\Debug\net6.0-windows\NokkenHelper.deps.json
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\bin\Debug\net6.0-windows\NokkenHelper.runtimeconfig.json
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\bin\Debug\net6.0-windows\NokkenHelper.dll
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\bin\Debug\net6.0-windows\NokkenHelper.pdb
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\NokkenHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\NokkenHelper.AssemblyInfoInputs.cache
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\NokkenHelper.AssemblyInfo.cs
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\NokkenHelper.csproj.CoreCompileInputs.cache
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\NokkenHelper.dll
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\refint\NokkenHelper.dll
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\NokkenHelper.pdb
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\NokkenHelper.genruntimeconfig.cache
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\ref\NokkenHelper.dll
+C:\Users\leoni\source\repos\NokkenHelper\NokkenHelper\obj\Debug\net6.0-windows\NokkenHelper.sourcelink.json
